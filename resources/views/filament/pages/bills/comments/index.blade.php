@@ -1,0 +1,1 @@
+@livewire('bills.comments', ['bill' => $bill])

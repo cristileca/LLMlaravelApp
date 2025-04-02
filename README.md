@@ -7,17 +7,6 @@
 - [Installation Guide](#installation-guide)
 - [Deployment Guide](#deployment-guide)
 
----
-
-# Team
-
-- **Cristian Leca** (Dev)
-- **Andrei Haba** (Dev)
-- **Amalia Mareci** (Dev)
-- **Robert Trasca** (Dev)
-- **Valerian Psenicinii** (Dev)
-- **Eduard Scripcarasu** (Team Lead)
-- **Alexandru Beciu** (Project Manager)
 
 
 # Tech Stack
@@ -69,7 +58,7 @@
 
 #### Admin Login
 
-- apb+admin@neurony.ro / admin (check 1Pass for stage)
+- apb+admin@test.ro / admin (check 1Pass for stage)
 
 ####  Staging Server
 
